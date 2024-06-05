@@ -89,7 +89,7 @@ const Login = () => {
           </button>
 
           <p className="text-center">
-            Don't have an account? <span className=" font-bold">Sign up</span>
+            Dont have an account? <span className=" font-bold">Sign up</span>
           </p>
         </div>
       </div>
