@@ -5,7 +5,7 @@ const Login = () => {
     <div className="login h-screen overflow-hidden">
       <h2 className="text-3xl font-semibold text-white p-4">PuRat</h2>
 
-      <div className="flex items-center justify-center h-5/6">
+      <div className="flex gap-10 items-center justify-center h-5/6">
         <div className="hidden w-[400px] text-white md:block">
           <h3 className="text-xl font-semibold mb-5">
             All the essential elements for expanding your business on whatsApp
